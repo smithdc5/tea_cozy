@@ -63,3 +63,26 @@ a {
   background-color: black;
   width: 100%;
 }
+
+#teas {
+  height: 700px;
+  width: 1000px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+h2, h3, h4 {
+  margin: 0;
+  padding: 10px;
+}
+
+.items {
+  padding: 5px;
+}
+
+.items img {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+  display: block;
+}
