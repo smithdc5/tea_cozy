@@ -5,6 +5,7 @@ html {
   background-color: black;
   opacity: 0.9;
   text-align: center;
+  display: block;
 }
 
 header {
@@ -42,4 +43,23 @@ a {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+}
+
+.main {
+  padding-top: 69px;
+  width: 1200px;
+  margin: auto;
+}
+
+#mission {
+  background-image: url("/Users/darin/Projects/TeaCozy/resources/images/img-mission-background.jpg");
+  height: 700px;
+  justify-content: center;
+  padding-top: 70px;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
 }
