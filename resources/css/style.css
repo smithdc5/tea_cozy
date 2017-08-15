@@ -129,3 +129,9 @@ nav span {
   flex-direction: column;
   justify-content: center;
 }
+
+/* Contact */
+
+#contact {
+  height: 200px;
+}
